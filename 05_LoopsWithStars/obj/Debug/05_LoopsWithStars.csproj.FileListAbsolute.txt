@@ -1,0 +1,7 @@
+C:\Users\Emir Çoban\Desktop\projeler\ELIFNUR\01_TemelKonular\05_LoopsWithStars\bin\Debug\05_LoopsWithStars.exe.config
+C:\Users\Emir Çoban\Desktop\projeler\ELIFNUR\01_TemelKonular\05_LoopsWithStars\bin\Debug\05_LoopsWithStars.exe
+C:\Users\Emir Çoban\Desktop\projeler\ELIFNUR\01_TemelKonular\05_LoopsWithStars\bin\Debug\05_LoopsWithStars.pdb
+C:\Users\Emir Çoban\Desktop\projeler\ELIFNUR\01_TemelKonular\05_LoopsWithStars\obj\Debug\05_LoopsWithStars.csproj.AssemblyReference.cache
+C:\Users\Emir Çoban\Desktop\projeler\ELIFNUR\01_TemelKonular\05_LoopsWithStars\obj\Debug\05_LoopsWithStars.csproj.CoreCompileInputs.cache
+C:\Users\Emir Çoban\Desktop\projeler\ELIFNUR\01_TemelKonular\05_LoopsWithStars\obj\Debug\05_LoopsWithStars.exe
+C:\Users\Emir Çoban\Desktop\projeler\ELIFNUR\01_TemelKonular\05_LoopsWithStars\obj\Debug\05_LoopsWithStars.pdb
