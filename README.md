@@ -63,9 +63,18 @@ Bu repo, C# Eğitim Kampı sırasında geliştirdiğim projeleri içermektedir. 
 
 ---
 
-### **Proje 9: Veri Tabanı ile ADO.NET Kullanımı 💾💻**
+### 📜 **Proje 9: Veri Tabanı ile ADO.NET Kullanımı 💾💻**
 - **ADO.NET** ile veritabanı işlemlerini öğrendim.
 - **SQL sorguları** yazarak veritabanından veri çekmeyi ve bu verileri programda kullanmayı keşfettim.
 - **SqlConnection**, **SqlCommand** ve **SqlDataAdapter** kullanarak veritabanına nasıl bağlanılacağını ve verilerin nasıl işlendiğini deneyimledim.
 - Veritabanından gelen sonuçları **DataTable** ile alıp, bunları **foreach** döngüsü ile ekrana yazdırmayı öğrendim.
 - Kullanıcı girişine dayalı olarak tablolar arasında geçiş yaparak, veri sorgulama işlemlerini gerçekleştirdim.
+  
+---
+
+### 📜 **Proje 10: CRUD İşlemleri ile Veritabanı Yönetimi 💾**
+- **CRUD (Create, Read, Update, Delete)** işlemlerini gerçekleştirdim.
+- SQL veritabanı ile **kategori** ve **ürün** ekleme, listeleme, güncelleme ve silme işlemlerini öğrendim.
+- **SqlConnection** ve **SqlCommand** nesneleri ile veritabanı bağlantısı kurarak SQL sorguları çalıştırmayı pekiştirdim.
+- Özellikle, **parametreli SQL komutları** kullanarak güvenli veri girişleri sağlamayı öğrendim.
+- Bu proje, temel veritabanı yönetim sistemlerini anlama ve uygulama konusunda önemli bir deneyim sundu.
