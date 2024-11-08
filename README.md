@@ -60,3 +60,10 @@ Bu repo, C# Eğitim Kampı sırasında geliştirdiğim projeleri içermektedir. 
 - Geriye değer döndürmeyen ve döndüren metotların nasıl tanımlandığını ve kullanıldığını öğrendim.
 - Parametreli metotlarla, farklı türde girişler alarak çeşitli hesaplamalar yapmayı pekiştirdim.
 - Özellikle, öğrenci sınav sonuçları ile ilgili uygulama, metotları doğru kullanarak parametrelerle veri gönderip, geri dönen değerlerle işlem yapmayı gösterdi.
+
+### Proje 9: Veri Tabanı ile ADO.NET Kullanımı 💾💻**
+- **ADO.NET** ile veritabanı işlemlerini öğrendim.
+- **SQL sorguları** yazarak veritabanından veri çekmeyi ve bu verileri programda kullanmayı keşfettim.
+- **SqlConnection**, **SqlCommand** ve **SqlDataAdapter** kullanarak veritabanına nasıl bağlanılacağını ve verilerin nasıl işlendiğini deneyimledim.
+- Veritabanından gelen sonuçları **DataTable** ile alıp, bunları **foreach** döngüsü ile ekrana yazdırmayı öğrendim.
+- Kullanıcı girişine dayalı olarak tablolar arasında geçiş yaparak, veri sorgulama işlemlerini gerçekleştirdim.
